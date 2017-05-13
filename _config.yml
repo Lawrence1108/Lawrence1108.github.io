@@ -3,8 +3,8 @@ title: Eule's Blog
 SEOTitle: 猫头鹰的博客 | Eule's Blog
 header-img: img/home-bg.jpg
 email: langxian@gmail.com
-description: ""
-keyword: ""
+description: "about coding | 猫头鹰，Web & Mobile Lover，Back-End Engineer | 这里是 @Eule 的个人博客，与你一起发现更大的世界。"
+keyword: "Hana,黄陈的男朋友,java,nodejs,博客, 个人网站, 互联网,@eule,eule,@lawrence1108,猫头鹰的博客,Eule Blog"
 url: "https://lawrence1108.github.io/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -50,9 +50,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-#duoshuo_username: huxblog
+duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
