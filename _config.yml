@@ -84,5 +84,9 @@ friends: [
     {
         title: "Leoythy Blog",
         href: "http://www.leoython.com"
-    }
+    },
+      {
+          title: "GGH Blog",
+          href: "http://120.24.173.65/build/"
+      }
 ]
