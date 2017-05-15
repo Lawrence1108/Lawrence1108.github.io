@@ -15,7 +15,7 @@ RSS: false
 weibo_username:    eule_hana
 zhihu_username:     yi-lang-xian
 github_username:    lawrence1108
-#twitter_username:  huxpro
+twitter_username:  lawrence_hy
 #facebook_username:  eule_hana
 
 
@@ -53,6 +53,7 @@ kramdown:
 #duoshuo_username: 易朗先
 # Share component is depend on Comment so we can NOT use share only.
 #duoshuo_share: false                     # set to false if you want to use Comment without Sharing
+disqus_username: lawrence1108
 
 
 
@@ -62,7 +63,7 @@ kramdown:
 ba_track_id: e357a3966b8c801a9929c9ca0e9aa14d
 # Google Analytics
 ga_track_id: 'UA-99073846-1'            # Format: UA-xxxxxx-xx
-ga_domain: lawrence1108.github.io
+ga_domain: auto
 
 
 
