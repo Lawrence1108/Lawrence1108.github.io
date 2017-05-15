@@ -5,8 +5,8 @@
     <description>about coding | 猫头鹰，Web &amp; Mobile Lover，Back-End Engineer | 这里是 @Eule 的个人博客，与你一起发现更大的世界。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 May 2017 15:38:59 +0800</pubDate>
-    <lastBuildDate>Mon, 15 May 2017 15:38:59 +0800</lastBuildDate>
+    <pubDate>Mon, 15 May 2017 15:45:39 +0800</pubDate>
+    <lastBuildDate>Mon, 15 May 2017 15:45:39 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;&lt;a href=&quot;#build&quot;&gt;跳过废话，直接看技术实现 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;2015 年，Eule 总算有个地方可以好好写点东西了。&lt;/p&gt;
+&lt;p&gt;2017 年，Eule 总算有个地方可以好好写点东西了。&lt;/p&gt;
 
 &lt;p&gt;作为一个程序员， Blog 这种轮子要是挂在大众博客程序上就太没意思了。一是觉得大部分 Blog 服务都太丑，二是觉得不能随便定制不好玩。之前因为太懒没有折腾，结果就一直连个写 Blog 的地儿都没有。&lt;/p&gt;
 
@@ -70,17 +70,17 @@
 
 &lt;h2 id=&quot;后记&quot;&gt;后记&lt;/h2&gt;
 
-&lt;p&gt;回顾这个博客的诞生，纯粹是出于个人兴趣。在知乎相关问题上回答并获得一定的 star 后，我决定把这个博客主题当作一个小小的开源项目来维护。&lt;/p&gt;
+&lt;p&gt;回顾这个博客的诞生，纯粹是出于个人兴趣。&lt;/p&gt;
 
 &lt;p&gt;在经历 v1.0 - v1.5 的蜕变后，这个博客主题愈发完整，不但增加了诸多 UI 层的优化（opinionated）；在代码层面，更加丰富的配置项也使得这个主题拥有了更好的灵活性与可拓展性。而作为一个开源项目，我也积极的为其完善文档与解决 issue。&lt;/p&gt;
 
 &lt;p&gt;如果你恰好逛到了这里，希望你也能喜欢这个博客主题。&lt;/p&gt;
 
-&lt;p&gt;—— Eule 后记于 2015.10&lt;/p&gt;
+&lt;p&gt;—— Eule 后记于 2017.5&lt;/p&gt;
 </description>
-        <pubDate>Thu, 29 Jan 2015 20:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2015/01/29/hello-2015/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/01/29/hello-2015/</guid>
+        <pubDate>Sat, 15 Apr 2017 20:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/04/15/hello-myblog/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/15/hello-myblog/</guid>
         
         <category>生活</category>
         
