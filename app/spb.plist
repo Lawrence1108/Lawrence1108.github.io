@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>zhupeibao.ipa</key>
-	<array>
+	<array>		
         <dict>
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://lawrence1108.github.io/app/zhupeibao.ipa</string>
+            <string>https://lawrence1108.github.io/app/spb.ipa</string>
         </dict>
         <dict>
             <key>kind</key>
@@ -16,7 +16,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://update.tzdr.com/Future/download/ios_tzdr_app/tzdr_logo.png</string>
+            <string>https://lawrence1108.github.io/app/logo.png</string>
         </dict>
         <dict>
             <key>kind</key>
@@ -24,58 +24,8 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://update.tzdr.com/Future/download/ios_tzdr_app/tzdr_logo.png</string>
+            <string>https://lawrence1108.github.io/app/logo.png</string>
         </dict>
-		<dict>
-			<key>architectures</key>
-			<array>
-				<string>arm64</string>
-			</array>
-			<key>bitcode</key>
-			<true/>
-			<key>certificate</key>
-			<dict>
-				<key>SHA1</key>
-				<string>13A2A7F51FBCCC23D2FBA4D2842EFB8A7A4D0046</string>
-				<key>dateExpires</key>
-				<string>2019/3/1</string>
-				<key>type</key>
-				<string>iOS Distribution</string>
-			</dict>
-			<key>entitlements</key>
-			<dict>
-				<key>application-identifier</key>
-				<string>LA576NN6G6.com.shunpeibao.stock</string>
-				<key>beta-reports-active</key>
-				<true/>
-				<key>com.apple.developer.team-identifier</key>
-				<string>LA576NN6G6</string>
-				<key>get-task-allow</key>
-				<false/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>LA576NN6G6.com.shunpeibao.stock</string>
-				</array>
-			</dict>
-			<key>name</key>
-			<string>zhupeibao.app</string>
-			<key>profile</key>
-			<dict>
-				<key>UUID</key>
-				<string>b7400c8f-8c7c-4b86-ba82-c02b61686aa2</string>
-				<key>name</key>
-				<string>iOS Team Store Provisioning Profile: com.shunpeibao.stock</string>
-			</dict>
-			<key>symbols</key>
-			<true/>
-			<key>team</key>
-			<dict>
-				<key>id</key>
-				<string>LA576NN6G6</string>
-				<key>name</key>
-				<string>Chongqing TengFog Enterprise Management Consulting Ltd.</string>
-			</dict>
-		</dict>
 	</array>
 </dict>
 </plist>
