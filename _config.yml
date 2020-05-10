@@ -60,7 +60,7 @@ disqus_username: lawrence1108
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: e357a3966b8c801a9929c9ca0e9aa14d
+ba_track_id: df6d67ffa021597af76b69f2b177d777
 # Google Analytics
 ga_track_id: 'UA-99073846-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
